@@ -15,6 +15,8 @@ function init(){
     trophy = new Image();
     trophy.src = "Assets/trophy.png";
 
+    
+    
     snake = {
         init_len: 4,
         color: "blue",
