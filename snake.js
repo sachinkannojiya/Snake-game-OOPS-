@@ -17,6 +17,8 @@ function init(){
 
     
     
+    
+    
     snake = {
         init_len: 4,
         color: "blue",
